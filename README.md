@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @Mekhi00
-
-<!---
-Mekhi00/Mekhi00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey my name is Mekhi, I'm here to learn as much as possible the boost my career. Thanks for stopping by :)
